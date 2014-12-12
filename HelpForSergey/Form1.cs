@@ -42,8 +42,9 @@ namespace HelpForSergey
             if (isStopped)
             {
                 timer.Start();
-                passedSeconds = 0;
+                passedSeconds = (timer.Interval / 1000);
                 lbl_Text.Text = initialLblText;
+                lbl_LabelTimer.Text = "0";
                 btn_LaunchTimer.Text = "Стоп и сброс";
                 isStopped = false;
             }
