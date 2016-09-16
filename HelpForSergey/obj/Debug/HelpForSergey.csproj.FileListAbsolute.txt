@@ -1,9 +1,0 @@
-F:\Университет\САМООБРАЗОВАНИЕ\C#\HelpForSergey\HelpForSergey\bin\Debug\HelpForSergey.exe.config
-F:\Университет\САМООБРАЗОВАНИЕ\C#\HelpForSergey\HelpForSergey\bin\Debug\HelpForSergey.exe
-F:\Университет\САМООБРАЗОВАНИЕ\C#\HelpForSergey\HelpForSergey\bin\Debug\HelpForSergey.pdb
-F:\Университет\САМООБРАЗОВАНИЕ\C#\HelpForSergey\HelpForSergey\obj\Debug\HelpForSergey.csprojResolveAssemblyReference.cache
-F:\Университет\САМООБРАЗОВАНИЕ\C#\HelpForSergey\HelpForSergey\obj\Debug\HelpForSergey.Form1.resources
-F:\Университет\САМООБРАЗОВАНИЕ\C#\HelpForSergey\HelpForSergey\obj\Debug\HelpForSergey.Properties.Resources.resources
-F:\Университет\САМООБРАЗОВАНИЕ\C#\HelpForSergey\HelpForSergey\obj\Debug\HelpForSergey.csproj.GenerateResource.Cache
-F:\Университет\САМООБРАЗОВАНИЕ\C#\HelpForSergey\HelpForSergey\obj\Debug\HelpForSergey.exe
-F:\Университет\САМООБРАЗОВАНИЕ\C#\HelpForSergey\HelpForSergey\obj\Debug\HelpForSergey.pdb
